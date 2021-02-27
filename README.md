@@ -53,7 +53,7 @@ The difference of transparency between these categories of color are almost impe
 
 ### **Cut**
 
-<p align="center"><img src="https://cdn.shopify.com/s/files/1/1590/8883/files/diamonds-4040800__340_large.jpg?v=1565217467"></p>
+<p align="center"><img src="https://www.keezingkreations.com/wp-content/uploads/2016/04/loose-cut-diamonds-keezing-kreations.jpg"></p>
 
 A good cut will determine the external beauty of a diamond. Diamonds can lose its value and brightness if is not cut properly. The categories of cuts we can see in our sample, from better to worse, are:
 - Ideal.
