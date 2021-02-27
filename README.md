@@ -21,10 +21,16 @@ Diamonds, as we know them today, are a symbol of elegance, sophistication, wealt
 
 The most common criteria that determine the quality of diamonds are the popular "4 C's":
 
-__Carat__
+### **Carat**
+
+<p align="center"><img src="https://cdn2.kwiat.com/wp-content/uploads/2CaratPage_Origin_830x320.jpg"></p>
+
 Diamond weight. As we can see in our exploratory visualization, the carat of a diamond will be the most determining characteristic that influences the price of the diamonds. The heavier the diamond is, the price gets more expensive, since it's more difficult for crystallization to take in larger sizes, so that makes more complicated to find heavy diamonds. 
 
-__Clarity__
+### **Clarity**
+
+<p align="center"><img src="https://thepatriot.com.na/wp-content/uploads/2019/08/appraisal-closeup.jpg"></p>
+
 Clarity is a scale of flawlessness when it's about inclusions. Inclusions are largely diamond crystals or foreign material that has formen within the stone and affects the internal composition. The categories we have in our sample, from better clarity to worse, is:
 - __1.__ IF: flawless, no inclusions.
 - __2 and 3.__ VVS1, VVS2: very very slightly included.
@@ -34,7 +40,10 @@ Clarity is a scale of flawlessness when it's about inclusions. Inclusions are la
 
 If we compare the average price and the average carat related to clarity, we can see that the most expensive diamonds are slightly included, one of the worst clarity scales, but also these are the ones with greater average carat. The first clarity scale with the greatest average carat are the included, and the lowest is the VVS1 followed by IF, really near one from each other in both results. There are not big differences between the average prices, it is more noticeable when we look at the average carat visualization. When the clarity is better, the average weight of the diamonds decreases. 
 
-__Color__
+### **Color**
+
+<p align="center"><img src="https://www.israel21c.org/wp-content/uploads/2012/12/colored-diamonds.png"></p>
+
 It's about the transparency of diamonds. The scale we have in our sample, from more transparency to less, is:
 
 - __Colorless__: D, E, F.
@@ -42,7 +51,10 @@ It's about the transparency of diamonds. The scale we have in our sample, from m
 
 The difference of transparency between these categories of color are almost imperceivable, so we can find normal that the most expensive and heavier diamonds are the color J ones, lower quality of transparency make them affordable to get them. Perfection is difficult to find. In our exploratory visualizations, we can appreciate that the average price and the average carat increase in order of the lower quality of diamonds color. 
 
-__Cut__
+### **Cut**
+
+<p align="center"><img src="https://cdn.shopify.com/s/files/1/1590/8883/files/diamonds-4040800__340_large.jpg?v=1565217467"></p>
+
 A good cut will determine the external beauty of a diamond. Diamonds can lose its value and brightness if is not cut properly. The categories of cuts we can see in our sample, from better to worse, are:
 - Ideal.
 - Premium.
